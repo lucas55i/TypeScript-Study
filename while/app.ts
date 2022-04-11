@@ -1,3 +1,4 @@
+export { }
 // ===> Exemplom01 - while
 let contador = 0;
 while (contador < 5) {
@@ -17,8 +18,8 @@ while (numero < 20) {
 // ===> Exemplom03 - exemplo mais prático
 let contadorUsuario = 0
 const usuario: string[] = ['Lucas', 'Ana', 'Neguinho'];
-while(usuario[contadorUsuario]){
-    console.log('Usuarios..: ', usuario[contadorUsuario]);
-    contadorUsuario++;
+while (usuario[contadorUsuario]) {
+  console.log('Usuarios..: ', usuario[contadorUsuario]);
+  contadorUsuario++;
 }
 // ===> Exemplom04 - do...while

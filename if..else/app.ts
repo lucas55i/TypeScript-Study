@@ -1,3 +1,5 @@
+export { }
+
 // ===> Exemplo 01 - Uso do if
 const numeroMax = 100;
 let contador = 100;
@@ -50,7 +52,7 @@ const idadeVotacao = 18;
 
 // ===> Ternário
 const podeVotar =
- ( idadeVotacao > 18)
+  (idadeVotacao > 18)
     ? "Voce é elegivel para votar.."
     : "Voce não é elegivel para votar";
 console.log(podeVotar);

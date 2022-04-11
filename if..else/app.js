@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // ===> Exemplo 01 - Uso do if
 const numeroMax = 100;
 let contador = 100;
